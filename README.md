@@ -4,8 +4,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Set up API key
 Create your own API key on Openai.com
 
-Copy the .env.example file 
-  and name it as .env after fulfilling the blank with your API key 
+###
+OPENAI_API_KEY=
+###
+Create a new file .env with the content above after fulfilling the blank with your API key 
 
 
 
